@@ -3,7 +3,7 @@ import java.util.Arrays;
 
 class Solution {
   public int[] solution(int[] arr, int divisor) {
-      		  ArrayList<Integer> list = new ArrayList<>();
+      	ArrayList<Integer> list = new ArrayList<>();
 		  
 	      for(int i : arr){
 	    	  if(i%divisor == 0){
