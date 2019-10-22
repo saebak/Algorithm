@@ -43,6 +43,5 @@ public class stockPrice {
 		for(int i=0; i<second.length; i++) {
 			System.out.print(second[i] + " ");
 		}
-	}
-
+	} 
 }
