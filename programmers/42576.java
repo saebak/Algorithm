@@ -28,7 +28,6 @@ public class NOgoal {
 				System.out.println(find);
 				break;
 			}
-		}
-		
+		} 
 	}
 }
