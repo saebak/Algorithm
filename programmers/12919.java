@@ -18,5 +18,4 @@ public class WhereIsKim {
 		
 		System.out.println("김서방은 " + num + "에 있다");
 	}
-
 }
