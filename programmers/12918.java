@@ -1,5 +1,3 @@
-package com.coding.test08;
-
 import java.util.Scanner;
 
 public class munja {
