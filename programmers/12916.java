@@ -1,5 +1,3 @@
-package com.coding.test;
-
 import java.util.Scanner;
 
 public class StringPY {
@@ -25,7 +23,6 @@ public class StringPY {
 		}else {
 			System.out.println(false);
 		}
-		
 		
 	}
 
