@@ -1,5 +1,3 @@
-package com.coding.test;
-
 import java.util.Scanner;
 
 public class CenterCharacter {
